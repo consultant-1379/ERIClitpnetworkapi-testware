@@ -1,0 +1,12 @@
+OBSOLETED TC
+============
+
+
+Story 2067
+----------
+
+test_13
+    OBSOLETED,  invalid due to removal of default miimon property:
+
+git: I4271269f3db6c6b463e9ddc1a198c367d8d904ff
+gerrit: https://gerrit.ericsson.se/#/c/1226111/
